@@ -1,0 +1,6 @@
+This project was originally started to make available a split timer software compatible with OBS for Mac users.
+However the program should work for any OS with Python3 installed.
+
+I am not really a programmer and everything is made with trial and error. Use the code as you please. 
+
+Any tips on how to make the code clean and neat in the future are welcome.
