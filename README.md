@@ -9,12 +9,12 @@ Create splits as .txt-files. See examplesplits.txt for template.
 Load with file extension included when prompted.
 
 	/-------------------------------------------------------------------\
-	| Hotkeys:			 				                                            |
-	| 								                                                  |
-	| 	Space 	- 	Start/Split				                                  |
-	| 	r 	    -	  Reset					                                      |
-	| 	h	      -	  Hide buttons				                                |
-	| 								                                                  |
+	| Hotkeys:			 				    |
+	| 								    |
+	| 	Space 	 - 	Start/Split				    |
+	| 	r 	 -	Reset					    |
+	| 	h	 -	Hide buttons				    |
+	| 								    |
 	\-------------------------------------------------------------------/
 
 
